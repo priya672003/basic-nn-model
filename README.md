@@ -5,7 +5,7 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-To develop a NN regression model we need dataset . I created a dataset with one input and output values. The data will be divided into two categories one testing the data and next training the data. The model consists of one input layer , 8 neurons in the  hidden layer  with relu activation and 10 neurons in the hidden layer with relu activation which connected with the one output layer. The model is complied with optimizer and loss 
+To develop a NN regression model we need dataset . I created a dataset with one input and output values. The data will be divided into two categories one testing the data and next training the data. The model consists of one input layer , 8 neurons in the  hidden layer  with relu activation and 10 neurons in the hidden layer with relu activation which connected with the one output layer. The model is complied with optimizer and loss mean square error , fit the trained data with epochs has 2000 and  plot the values next evaluate the testing data then  predicted  the output for the given dataset.
 
 
 ## Neural Network Model
